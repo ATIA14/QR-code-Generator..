@@ -4,8 +4,10 @@
     width: 350px;
     height: 400px;
     position: relative;
-    top: 150px;
+    top: 250px;
     box-shadow: 10px 10px 5px gray;
+    background-color: rgb(224, 197, 138);
+
 }
 h2{
     font-family: cursive;
@@ -32,6 +34,7 @@ input:hover{
 button{
     border-radius: 7px;
     padding: 4px;
+    background-color: rgb(132, 132, 194);
 }
 button:hover{
     cursor: pointer;
@@ -39,4 +42,7 @@ button:hover{
     background-color: black;
     color: yellow;
 
+}
+body{
+    background-color: rgb(223, 130, 130);
 }
