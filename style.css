@@ -1,0 +1,42 @@
+.box{
+    border: 3px groove grey;
+    border-radius: 7px;
+    width: 350px;
+    height: 400px;
+    position: relative;
+    top: 150px;
+    box-shadow: 10px 10px 5px gray;
+}
+h2{
+    font-family: cursive;
+    font-size: 30px;
+    text-decoration: underline;
+}
+h2:hover{
+    cursor: pointer;
+    color: red;
+    font-family:Georgia;
+}
+input{
+    border-radius: 7px;
+    width: 200px;
+    height: 18px;
+}
+input:hover{
+    cursor: pointer;
+    border: 3px dashed red;
+    background-color: black;
+    color: yellow;
+
+}
+button{
+    border-radius: 7px;
+    padding: 4px;
+}
+button:hover{
+    cursor: pointer;
+    border: 3px dashed red;
+    background-color: black;
+    color: yellow;
+
+}
